@@ -3,6 +3,8 @@
 
 **"Caught you - reveal and exploit IPC logic bugs inside Apple"**
 
+Speakers: Zhipeng Huo, Yuebin Sun, Chuanda Ding of Tencent Security Xuanwu Lab
+
 Apple's iOS, macOS and other OS have existed for a long time. There are numerous interesting logic bugs hidden for many years. We demonstrated the world's first public 0day exploit running natively on Apple M1 on a MacBook Air (M1, 2020). Without any modification, we exploited an iPhone 12 Pro with the same bug.
 
 In this talk, we will show you the advantage and beauty of the IPC logic bugs, how we rule all Apple platforms, Intel and Apple Silicon alike, even with all the latest hardware mitigations enabled, without changing one line of code. We would talk about the security features introduced by Apple M1, like Pointer Authentication Code (PAC), System Integrity, and Data Protection. How did they make exploiting much harder to provide better security and protect user's privacy. We will talk about different IPC mechanisms like Mach Message, XPC, and NSXPC. They are widely used on Apple platforms which could be abused to break the well designed security boundaries.
