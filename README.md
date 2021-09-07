@@ -1,7 +1,7 @@
 
 ## Talk
 
-"Caught you - reveal and exploit IPC logic bugs inside Apple"
+**"Caught you - reveal and exploit IPC logic bugs inside Apple"**
 
 Apple's iOS, macOS and other OS have existed for a long time. There are numerous interesting logic bugs hidden for many years. We demonstrated the world's first public 0day exploit running natively on Apple M1 on a MacBook Air (M1, 2020). Without any modification, we exploited an iPhone 12 Pro with the same bug.
 
