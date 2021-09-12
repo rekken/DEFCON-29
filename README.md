@@ -3,7 +3,7 @@
 
 **"Caught you - reveal and exploit IPC logic bugs inside Apple"**
 
-Speakers: Zhipeng Huo, Yuebin Sun, Chuanda Ding of Tencent Security Xuanwu Lab
+Speakers: Zhipeng Huo([@R3dF09](https://twitter.com/R3dF09)), Yuebin Sun([@yuebinsun2020](https://twitter.com/yuebinsun2020)), Chuanda Ding([@FlowerCode_](https://twitter.com/FlowerCode_)) of Tencent Security Xuanwu Lab
 
 Apple's iOS, macOS and other OS have existed for a long time. There are numerous interesting logic bugs hidden for many years. We demonstrated the world's first public 0day exploit running natively on Apple M1 on a MacBook Air (M1, 2020). Without any modification, we exploited an iPhone 12 Pro with the same bug.
 
