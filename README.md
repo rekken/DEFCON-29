@@ -1,7 +1,5 @@
 
-## Talk
-
-**"Caught you - reveal and exploit IPC logic bugs inside Apple"**
+## Caught you - reveal and exploit IPC logic bugs inside Apple
 
 Speakers: Zhipeng Huo([@R3dF09](https://twitter.com/R3dF09)), Yuebin Sun([@yuebinsun2020](https://twitter.com/yuebinsun2020)), Chuanda Ding([@FlowerCode_](https://twitter.com/FlowerCode_)) of Tencent Security Xuanwu Lab
 
